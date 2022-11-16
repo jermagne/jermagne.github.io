@@ -1,5 +1,5 @@
 # jermagne.github.io
-**I am Jermagne Sofia C. Ruiz. I like many movies. *Chungking Express (1994)* are one of the many movies that I like.
+**I am Jermagne Sofia C. Ruiz. I like many movies. *Chungking Express (1994)* are one of the many movies that I like.**
  
 ![image](https://user-images.githubusercontent.com/118234017/202062435-c4ddada7-5515-4699-a174-dedc090f1444.png)
 
