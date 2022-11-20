@@ -8,3 +8,4 @@ In movies, especially movies directed by Wong Kar Wai, you can find many quotes 
 
 *In movies, you can see your reality and in your reality, you can recognize movies.*
 Movies...I really like movies.
+theme: merlot
